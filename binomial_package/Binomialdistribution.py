@@ -14,7 +14,6 @@ class Binomial(Distribution):
         n (int) the total number of trials
 
 
-    TODO: Fill out all TODOs in the functions below
 
     """
 
